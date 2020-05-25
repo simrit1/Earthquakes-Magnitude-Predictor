@@ -10,8 +10,9 @@ Simple PySpark / MongoDB application to predict magnitudes of earthquakes for th
 
 * ETL : extract, transform and load data to a MongoDB NoSQL database
 * Prediction of 2017 magnitudes using Spark MLib
-* Data visualisation with Bookeh
+* Creation of a dashboard for data visualisation with Bookeh
+* Dashboard server using Flask
 
 ### DATA
 
-Magnitude measurments dating back to 1965
+1965-2016 Magnitude measurments of earthquakes
