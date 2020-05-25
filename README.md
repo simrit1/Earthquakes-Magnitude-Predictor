@@ -15,4 +15,4 @@ Simple PySpark / MongoDB application to predict magnitudes of earthquakes for th
 
 ### DATA
 
-1965-2016 Magnitude measurments of earthquakes
+1965-2016 historical magnitude recordings of earthquakes
